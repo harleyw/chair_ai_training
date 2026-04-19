@@ -1,0 +1,10 @@
+# Cloud/Server deployment files
+logs/
+models/
+*.pyc
+__pycache__/
+*.zip
+*.png
+training_progress*.png
+.env
+venv/
